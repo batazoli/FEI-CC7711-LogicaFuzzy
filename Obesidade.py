@@ -1,4 +1,6 @@
 #pip install scikit-fuzzy
+#Giovana Ellero (RA: 22.220.003-2)
+#Vagner Batazoli (RA: 22.217.022-7)
 
 import numpy as np
 import skfuzzy as fuzz
